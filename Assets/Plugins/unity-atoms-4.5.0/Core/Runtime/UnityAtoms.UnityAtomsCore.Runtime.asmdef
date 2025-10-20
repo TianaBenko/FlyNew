@@ -1,0 +1,13 @@
+{
+    "name": "UnityAtoms.UnityAtomsCore.Runtime",
+    "references": ["GUID:57a6d82589ae03c4cabdc058f719f231","GUID:fb4a15153ce5bb44a85c02351b5818a8"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

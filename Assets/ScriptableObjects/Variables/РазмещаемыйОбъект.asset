@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0131cf7e6cff68a4cae98dea6148f732, type: 3}
+  m_Name: "\u0420\u0430\u0437\u043C\u0435\u0449\u0430\u0435\u043C\u044B\u0439\u041E\u0431\u044A\u0435\u043A\u0442"
+  m_EditorClassIdentifier: 
+  _developerDescription: 
+  _id: 
+  _value: {fileID: 0}
+  _changed: {fileID: 0}
+  _changedWithHistory: {fileID: 0}
+  _triggerChangedOnOnEnable: 0
+  _triggerChangedWithHistoryOnOnEnable: 0
+  _oldValue: {fileID: 0}
+  _initialValue: {fileID: 0}
+  _preChangeTransformers: []
